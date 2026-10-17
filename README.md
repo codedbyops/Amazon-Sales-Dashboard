@@ -40,4 +40,4 @@ How to View the Project:
 
 Screenshots / Demos:
 Show what the dashboard looks like.
-Eample: 
+Eample: https://github.com/codedbyops/Amazon-Sales-Dashboard/blob/main/Screenshot%202026-09-15%20173746.png
