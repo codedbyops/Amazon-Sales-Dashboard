@@ -39,5 +39,9 @@ How to View the Project:
 - Refer to the PDF export for a quick preview.
 
 Screenshots / Demos:
+
 Show what the dashboard looks like.
-Eample: https://github.com/codedbyops/Amazon-Sales-Dashboard/blob/main/Screenshot%202026-09-15%20173746.png
+Eample: (https://github.com/codedbyops/Amazon-Sales-Dashboard/blob/main/Screenshot%202026-09-15%20173746.png) 
+
+Author:
+Sumit Raj
